@@ -214,7 +214,7 @@ img{
 }
 .home__img{
   position: absolute;
-  margin: center;
+  Justify-content: center;
   right: 0;
   bottom: 0;
   width: 150px;
